@@ -1,6 +1,6 @@
 # Battery Management Systems
 
-A research documentation repository focused on **Battery Management Systems (BMS) in automotive applications**, with particular emphasis on **BMS cybersecurity threats, attack surfaces, vulnerabilities, and security controls**.
+A research documentation repository focused on **Battery Management Systems (BMS) in automotive**, with particular emphasis on **BMS cybersecurity threats, attack surfaces, vulnerabilities, and security controls**.
 
 ## 📌 Overview
 
